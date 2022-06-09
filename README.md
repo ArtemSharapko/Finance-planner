@@ -1,1 +1,2 @@
 # Finance-planner
+My goal is to make an application for tracking personal finances with the help of Python. Create functionality for entering data on my funds, main account. Create an account to raise funds for the desired thing, keep track of it, see how much has already been accumulated, how much still needs to be accumulated, what is the final amount, etc.
